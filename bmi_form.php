@@ -23,7 +23,7 @@
             box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
         }
         h1 {
-            color:rgb(116, 246, 118);
+            color:rgb(112, 236, 94);
             text-align: center;
         }
         label {
@@ -43,7 +43,7 @@
         }
         button {
             padding: 10px 20px;
-            background-color:rgb(221, 86, 147);
+            background-color:rgb(225, 101, 73);
             color: white;
             border: none;
             border-radius: 5px;
@@ -52,7 +52,7 @@
             width: 100%;
         }
         button:hover {
-            background-color:rgb(140, 126, 71);
+            background-color:rgb(227, 72, 212);
         }
     </style>
 </head>
